@@ -7,7 +7,7 @@ import Footer from "./components/Footer/Footer";
 function App() {
   return (
     <div className="App">
-      <Header title={"ポートフォリオ"} />
+      <Header title={"Todo"} />
       <Home />
       <Footer />
     </div>
